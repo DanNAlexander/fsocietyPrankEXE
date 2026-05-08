@@ -17,7 +17,7 @@ tkinter (included with standard Python on Windows)
 Run
 
 python fsociety.py
-Or use the prebuilt fsocietyexe/fsociety.exe — no Python install needed.
+Or use the prebuilt fsociety.exe — no Python install needed.
 
 Disclaimer
 Mr. Robot is a trademark of USA Network / NBCUniversal Media, LLC. This is an unofficial fan project made for personal, non-commercial use. It is not affiliated with or endorsed by USA Network or NBCUniversal.
