@@ -1,4 +1,4 @@
-# PDF_Partitioner — Mr. Robot-themed prank app for Windows. Runs a fake "hacking" sequence
+# fsociety Prank EXE — Mr. Robot-themed prank app for Windows. Runs a fake "hacking" sequence
 # Copyright (C) 2026 Danton Alexander
 #
 # This program is free software: you can redistribute it and/or modify
